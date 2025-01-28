@@ -3,19 +3,20 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-ost.github.io/PAM_template_lab_manual/" 
-  repo-url: "https://github.com/nmfs-ost/PAM_template_lab_manual"
+  title: "RFP_Response_Workbook" 
+  site-url: "https://pifsc-protected-species-division.github.io/RFP_Response_Workbook/" 
+  repo-url: "https://github.com/PIFSC-Protected-Species-Division/RFP_Response_Workbook"
   repo-actions: [edit, source, issue]
-  favicon: images/favicon.ico
+  favicon: content/images/favicon.ico
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; CC-1.0"
   
   sidebar:
-    background: "#D9E3E4"
-    logo: "https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg"
+    # background: "#303030"
+    background: "#77DCF2"
+    logo: content/images/Splash_OnlyWRing.png
     favicon: images/favicon.ico
     pinned: true
     align: center
@@ -24,8 +25,8 @@ website:
         href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
         text: "NMFS National Passive Acoustic Monitoring Network"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
-        text: "NMFS PAM SI Lab Manual Template"
+        href: https://github.com/PIFSC-Protected-Species-Division
+        text: "NOAA Fisheries PIFSC Protected Species Division"
 
     style: "docked"
     search: true
@@ -33,7 +34,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - section: content/LabManagement.qmd
+      - section: content/Resources.qmd
         contents: 
           - href: content/Safety.qmd
             text: Safety
@@ -63,15 +64,6 @@ website:
           - content/OpenScience.qmd
           - content/PublicationsPresentations.qmd
           - content/Resources.qmd
-      # - section: "NMFS Open Science Directions"  #Removed but did not yet delete
-      #   contents:
-      #     - content/NMFS_OpenSciDirections/Getting-Started.qmd
-      #     - content/NMFS_OpenSciDirections/organize.qmd
-      #     - content/NMFS_OpenSciDirections/add-content.qmd
-      #     - content/NMFS_OpenSciDirections/rendering.qmd
-      #     - content/NMFS_OpenSciDirections/rmarkdown.Rmd
-      #     - content/NMFS_OpenSciDirections/code.qmd
-      #     - content/NMFS_OpenSciDirections/acknowledgements.qmd 
         
 format:
   html:
