@@ -4,5 +4,30 @@ subtitle: "Workbook and resources to aid in generating a response to a Request f
 page-layout: full
 ---
 
-## Goals
+## Goal
 
+Provide a centralized location for information and tools to create to create a response to an organization's request for proposals (RFP).
+
+## PIFSC Internal documentation of Proceedures
+
+-   **PIFSC Guidance for Developing Proposals for Temporary and Reimbursable Funding:**  [Google Doc](PIFSC%20Guidance%20for%20Developing%20Proposals%20for%20Temporary%20and%20Reimbursable%20Funding){target="_blank"}
+
+-   **Proposal Coordinator:** PIFSC Planning Officer- [Becky Walker](https://www.fisheries.noaa.gov/contact/rebecca-walker){target="_blank"} (rebecca.walker\@noaa.gov)
+
+![](content/images/PIFSC_Guidance.png){fig-align="left"}
+
+## Common Commponets for a Response to a RFP
+
+-   **Cover or Title Page:** Contains specific information about the proposal and the Institute and requires specific authorizations/signatures.
+
+-   **Abstract or Project Summary:** Outlines the proposed research, including the objectives, methodology, and significance of the research.
+
+-   **Statement of Work (SOW):** Provides a full and detailed explanation of the proposed research, and typically includes a project timetable. The SOW describes **HOW** the work will be done, **WHERE** the work will be done, and **who** will do the work.
+
+-   **Budget:** Must include an estimate of the resources necessary to conduct the project. Most sponsors require a detailed breakdown of the budget into defined categories and a detailed budget justification, explaining what costs will be paid for and how the expense was calculated.
+
+-   **Curriculum Vitae or Biographical Sketch:** Include for all key project personnel.
+
+-   **Bibliography:** Lists all references cited in proposal.
+
+![](content/images/Water_Arrow.jpeg){fig-align="left"}
