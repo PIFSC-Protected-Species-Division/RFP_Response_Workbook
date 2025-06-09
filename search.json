@@ -1,25 +1,5 @@
 [
   {
-    "objectID": "content/Resources.html#cetacean-research-program",
-    "href": "content/Resources.html#cetacean-research-program",
-    "title": "Resources",
-    "section": "Cetacean Research Program",
-    "text": "Cetacean Research Program\n\nGoogle drive folder of previous Competitive Funding Proposals",
-    "crumbs": [
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "content/Resources.html#other-institutions-websites",
-    "href": "content/Resources.html#other-institutions-websites",
-    "title": "Resources",
-    "section": "Other Institution’s Websites",
-    "text": "Other Institution’s Websites\n\nMIT’s Website on how to prepare and submit a response to a RFP.\n\n\n\n\n\n\n\nThe BID LAB Website\n\n\n\n\n\n\n\nStorydoc Website",
-    "crumbs": [
-      "Resources"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -57,6 +37,26 @@
     "text": "Common Commponets for a Response to a RFP\n\nCover or Title Page: Contains specific information about the proposal and the Institute and requires specific authorizations/signatures.\nAbstract or Project Summary: Outlines the proposed research, including the objectives, methodology, and significance of the research.\nStatement of Work (SOW): Provides a full and detailed explanation of the proposed research, and typically includes a project timetable. The SOW describes HOW the work will be done, WHERE the work will be done, and who will do the work.\nBudget: Must include an estimate of the resources necessary to conduct the project. Most sponsors require a detailed breakdown of the budget into defined categories and a detailed budget justification, explaining what costs will be paid for and how the expense was calculated.\nCurriculum Vitae or Biographical Sketch: Include for all key project personnel.\nBibliography: Lists all references cited in proposal.",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "content/Resources.html#cetacean-research-program",
+    "href": "content/Resources.html#cetacean-research-program",
+    "title": "Resources",
+    "section": "Cetacean Research Program",
+    "text": "Cetacean Research Program\n\nGoogle drive folder of previous Competitive Funding Proposals",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "content/Resources.html#other-institutions-websites",
+    "href": "content/Resources.html#other-institutions-websites",
+    "title": "Resources",
+    "section": "Other Institution’s Websites",
+    "text": "Other Institution’s Websites\n\nMIT’s Website on how to prepare and submit a response to a RFP.\n\n\n\n\n\n\n\nThe BID LAB Website\n\n\n\n\n\n\n\nStorydoc Website",
+    "crumbs": [
+      "Resources"
     ]
   }
 ]
