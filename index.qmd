@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Request For Proposals - Response Workbook"
 subtitle: "Workbook and resources to aid in generating a response to a Request for Proposals (RFP)"
 page-layout: full
 ---
