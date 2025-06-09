@@ -1,0 +1,45 @@
+---
+title: Budget
+---
+
+![](images/Budget_Icon.jpeg){fig-align="left"}
+
+## Project Needs to Consider
+
+-   Salaries
+    -   Federal / Grants (ex. CIMAR )/ Contract (ex. Saltwater Inc.)
+    -   Overtime
+-   Vessel
+    -   NOAA Ship
+    -   Contract vessel
+    -   Small boat
+-   Travel
+    -   Accommodations
+    -   Airfare
+    -   Transportation
+-   Equipment
+    -   Field
+    -   Lab
+-   Publication Fees
+-   Software licenses
+-   Miscellaneous
+
+## Overhead
+
+-   Federal overhead changes annually based on the fiscal year. (See current rate [HERE](https://docs.google.com/document/d/1NN2zkEjxZzIRA8-4dZUYk5gEhKZopVQLz7ZV3DuhL9w/edit?usp=sharing){target="_blank"})
+-   Full overhead rate should be included in budget proposals to capture the complete cost to PIFSC, and Federal labor oversight for that project.
+    -   Note that small boat costs are not included in the PIFSC overhead and need to be accounted for separately.
+-   Contact Andrew Choy (andrew.choy\@noaa.gov) for federal labor rates to include overhead.
+
+## Temporary funds
+
+-   Contact Stephanie Garnett (stephanie.m.garnett\@noaa.gov) for all strategic procurement discussions.
+-   Cooperative Institute (aka. CIMAR)
+    -   New CIMAR grant projects require a minimum of \$100k
+    -   CIMAR project [budget builder](https://docs.google.com/spreadsheets/d/1x_2rmPDJK3oKmjSXgy2NWiNbiyLDsTvR/edit?usp=sharing&ouid=114093905122290360889&rtpof=true&sd=true){target="_blank"}
+-   Contract
+    -   Applied to existing contract (ex. added to option years)
+    -   Used to start a new contract (submitted through Protect system)
+    -   Check budget timelines for [cutoff dates](https://sites.google.com/noaa.gov/pifsc-intranet/operations-management-and-information-division/procurement?authuser=0){target="_blank"}
+
+![](images/Water_Arrow.jpeg){fig-align="left"}

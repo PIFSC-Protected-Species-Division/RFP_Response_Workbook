@@ -10,13 +10,19 @@ Provide a centralized location for information and tools to create to create a r
 
 ## PIFSC Internal documentation of Proceedures
 
--   **PIFSC Guidance for Developing Proposals for Temporary and Reimbursable Funding:**  [Google Doc](PIFSC%20Guidance%20for%20Developing%20Proposals%20for%20Temporary%20and%20Reimbursable%20Funding){target="_blank"}
+-   **PIFSC Guidance for Developing Proposals for Temporary and Reimbursable Funding:** [Google Doc](https://docs.google.com/document/d/1NN2zkEjxZzIRA8-4dZUYk5gEhKZopVQLz7ZV3DuhL9w/edit?usp=sharing){target="_blank"}
 
 -   **Proposal Coordinator:** PIFSC Planning Officer- [Becky Walker](https://www.fisheries.noaa.gov/contact/rebecca-walker){target="_blank"} (rebecca.walker\@noaa.gov)
 
+    -   Monitor funding opportunities - Federal Applicants
+
+    -   Send RFP requests that didn't come from BOD or Division Director to Coordinator.
+
+    -   All requests for proposals (RFPs) sent to Coordinator for internal review 2 weeks before deadline.
+
 ![](content/images/PIFSC_Guidance.png){fig-align="left"}
 
-## Common Commponets for a Response to a RFP
+## Common Components for a Response to a RFP
 
 -   **Cover or Title Page:** Contains specific information about the proposal and the Institute and requires specific authorizations/signatures.
 
