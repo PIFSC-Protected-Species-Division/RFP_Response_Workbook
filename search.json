@@ -24,17 +24,17 @@
     "href": "index.html#pifsc-internal-documentation-of-proceedures",
     "title": "Home",
     "section": "PIFSC Internal documentation of Proceedures",
-    "text": "PIFSC Internal documentation of Proceedures\n\nPIFSC Guidance for Developing Proposals for Temporary and Reimbursable Funding: Google Doc\nProposal Coordinator: PIFSC Planning Officer- Becky Walker (rebecca.walker@noaa.gov)",
+    "text": "PIFSC Internal documentation of Proceedures\n\nPIFSC Guidance for Developing Proposals for Temporary and Reimbursable Funding: Google Doc\nProposal Coordinator: PIFSC Planning Officer- Becky Walker (rebecca.walker@noaa.gov)\n\nMonitor funding opportunities - Federal Applicants\nSend RFP requests that didn’t come from BOD or Division Director to Coordinator.\nAll requests for proposals (RFPs) sent to Coordinator for internal review 2 weeks before deadline.",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#common-commponets-for-a-response-to-a-rfp",
-    "href": "index.html#common-commponets-for-a-response-to-a-rfp",
+    "objectID": "index.html#common-components-for-a-response-to-a-rfp",
+    "href": "index.html#common-components-for-a-response-to-a-rfp",
     "title": "Home",
-    "section": "Common Commponets for a Response to a RFP",
-    "text": "Common Commponets for a Response to a RFP\n\nCover or Title Page: Contains specific information about the proposal and the Institute and requires specific authorizations/signatures.\nAbstract or Project Summary: Outlines the proposed research, including the objectives, methodology, and significance of the research.\nStatement of Work (SOW): Provides a full and detailed explanation of the proposed research, and typically includes a project timetable. The SOW describes HOW the work will be done, WHERE the work will be done, and who will do the work.\nBudget: Must include an estimate of the resources necessary to conduct the project. Most sponsors require a detailed breakdown of the budget into defined categories and a detailed budget justification, explaining what costs will be paid for and how the expense was calculated.\nCurriculum Vitae or Biographical Sketch: Include for all key project personnel.\nBibliography: Lists all references cited in proposal.",
+    "section": "Common Components for a Response to a RFP",
+    "text": "Common Components for a Response to a RFP\n\nCover or Title Page: Contains specific information about the proposal and the Institute and requires specific authorizations/signatures.\nAbstract or Project Summary: Outlines the proposed research, including the objectives, methodology, and significance of the research.\nStatement of Work (SOW): Provides a full and detailed explanation of the proposed research, and typically includes a project timetable. The SOW describes HOW the work will be done, WHERE the work will be done, and who will do the work.\nBudget: Must include an estimate of the resources necessary to conduct the project. Most sponsors require a detailed breakdown of the budget into defined categories and a detailed budget justification, explaining what costs will be paid for and how the expense was calculated.\nCurriculum Vitae or Biographical Sketch: Include for all key project personnel.\nBibliography: Lists all references cited in proposal.",
     "crumbs": [
       "Home"
     ]
@@ -57,6 +57,36 @@
     "text": "Other Institution’s Websites\n\nMIT’s Website on how to prepare and submit a response to a RFP.\n\n\n\n\n\n\n\nThe BID LAB Website\n\n\n\n\n\n\n\nStorydoc Website",
     "crumbs": [
       "Resources"
+    ]
+  },
+  {
+    "objectID": "content/Budget.html#project-needs-to-consider",
+    "href": "content/Budget.html#project-needs-to-consider",
+    "title": "Budget",
+    "section": "Project Needs to Consider",
+    "text": "Project Needs to Consider\n\nSalaries\n\nFederal / Grants (ex. CIMAR )/ Contract (ex. Saltwater Inc.)\nOvertime\n\nVessel\n\nNOAA Ship\nContract vessel\nSmall boat\n\nTravel\n\nAccommodations\nAirfare\nTransportation\n\nEquipment\n\nField\nLab\n\nPublication Fees\nSoftware licenses\nMiscellaneous",
+    "crumbs": [
+      "Budget"
+    ]
+  },
+  {
+    "objectID": "content/Budget.html#overhead",
+    "href": "content/Budget.html#overhead",
+    "title": "Budget",
+    "section": "Overhead",
+    "text": "Overhead\n\nFederal overhead changes annually based on the fiscal year. (See current rate HERE)\nFull overhead rate should be included in budget proposals to capture the complete cost to PIFSC, and Federal labor oversight for that project.\n\nNote that small boat costs are not included in the PIFSC overhead and need to be accounted for separately.\n\nContact Andrew Choy (andrew.choy@noaa.gov) for federal labor rates to include overhead.",
+    "crumbs": [
+      "Budget"
+    ]
+  },
+  {
+    "objectID": "content/Budget.html#temporary-funds",
+    "href": "content/Budget.html#temporary-funds",
+    "title": "Budget",
+    "section": "Temporary funds",
+    "text": "Temporary funds\n\nContact Stephanie Garnett (stephanie.m.garnett@noaa.gov) for all strategic procurement discussions.\nCooperative Institute (aka. CIMAR)\n\nNew CIMAR grant projects require a minimum of $100k\nCIMAR project budget builder\n\nContract\n\nApplied to existing contract (ex. added to option years)\nUsed to start a new contract (submitted through Protect system)\nCheck budget timelines for cutoff dates",
+    "crumbs": [
+      "Budget"
     ]
   }
 ]
