@@ -8,7 +8,7 @@ page-layout: full
 
 Provide a centralized location for information and tools to create to create a response to an organization's request for proposals (RFP).
 
-## PIFSC Internal documentation of Proceedures
+## PIFSC Internal documentation of Procedures
 
 -   **PIFSC Guidance for Developing Proposals for Temporary and Reimbursable Funding:** [Google Doc](https://docs.google.com/document/d/1NN2zkEjxZzIRA8-4dZUYk5gEhKZopVQLz7ZV3DuhL9w/edit?usp=sharing){target="_blank"}
 
