@@ -15,7 +15,7 @@ title: Resources
 
 -   The BID LAB [Website](https://www.thebidlab.com/learning-center/how-to-build-an-rfp-response-template/){target="_blank"}
 
-![](images/BID_Lab_Workflow.png){fig-align="left"}
+![](images/BID_Lab_Workflow1.png){fig-align="left"}
 
 -   **Storydoc** [Website](https://www.storydoc.com/templates/rfp-response-proposal?utm_source=SEM&utm_medium=Search&utm_campaign=Search+%7C+DSA+%7C+Catch+All&utm_content=Other+no+blog&utm_term=&utm_campaign=Search+%7C+DSA+%7C+Targeted&utm_source=adwords&utm_medium=ppc&hsa_acc=3862459770&hsa_cam=20914581297&hsa_grp=160744718340&hsa_ad=693673672035&hsa_src=g&hsa_tgt=dsa-465406856833&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA-ty8BhA_EiwAkyoa3y2HEICX1cFj64ZThCMu4GKy9LQuujGadTWO3g0TwBk8Dzo6VVqkbBoC8bAQAvD_BwE){target="_blank"}
 
