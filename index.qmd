@@ -18,7 +18,7 @@ Provide a centralized location for information and tools to create to create a r
 
     -   Send RFP requests that didn't come from BOD or Division Director to Coordinator.
 
-    -   All requests for proposals (RFPs) sent to Coordinator for internal review 2 weeks before deadline.
+    -   All requests for proposals (RFPs) send to Coordinator for internal review **2 weeks before deadline**.
 
 ![](content/images/PIFSC_Guidance.png){fig-align="left"}
 
@@ -28,7 +28,7 @@ Provide a centralized location for information and tools to create to create a r
 
 -   **Abstract or Project Summary:** Outlines the proposed research, including the objectives, methodology, and significance of the research.
 
--   **Statement of Work (SOW):** Provides a full and detailed explanation of the proposed research, and typically includes a project timetable. The SOW describes **HOW** the work will be done, **WHERE** the work will be done, and **who** will do the work.
+-   **Statement of Work (SOW):** Provides a full and detailed explanation of the proposed research, and typically includes a project timetable. The SOW describes **HOW** the work will be done, **WHERE** the work will be done, and **WHO** will do the work.
 
 -   **Budget:** Must include an estimate of the resources necessary to conduct the project. Most sponsors require a detailed breakdown of the budget into defined categories and a detailed budget justification, explaining what costs will be paid for and how the expense was calculated.
 
