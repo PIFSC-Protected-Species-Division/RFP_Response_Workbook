@@ -6,7 +6,7 @@ page-layout: full
 
 ## Goal
 
-Provide a centralized location for information and tools to create to create a response to an organization's request for proposals (RFP).
+Provide a centralized location for information and tools to create a response to an organization's request for proposals (RFP).
 
 ## PIFSC Internal documentation of Procedures
 
