@@ -1,10 +1,40 @@
 [
   {
+    "objectID": "content/Budget.html#project-needs-to-consider",
+    "href": "content/Budget.html#project-needs-to-consider",
+    "title": "Budget",
+    "section": "Project Needs to Consider",
+    "text": "Project Needs to Consider\n\nSalaries\n\nFederal / Grants (ex. CIMAR )/ Contract (ex. Saltwater Inc.)\nOvertime\n\nVessel\n\nNOAA Ship\nContract vessel\nSmall boat\n\nTravel\n\nAccommodations\nAirfare\nTransportation\n\nEquipment\n\nField\nLab\n\nPublication Fees\nSoftware licenses\nCloud storage / Data processing fees\nMiscellaneous",
+    "crumbs": [
+      "Budget"
+    ]
+  },
+  {
+    "objectID": "content/Budget.html#overhead",
+    "href": "content/Budget.html#overhead",
+    "title": "Budget",
+    "section": "Overhead",
+    "text": "Overhead\n\nFederal overhead changes annually based on the fiscal year. (See current rate HERE)\nFull overhead rate should be included in budget proposals to capture the complete cost to PIFSC, and Federal labor oversight for that project.\n\nNote that small boat costs are not included in the PIFSC overhead and need to be accounted for separately.\n\nContact Andrew Choy (andrew.choy@noaa.gov) for federal labor rates to include overhead.",
+    "crumbs": [
+      "Budget"
+    ]
+  },
+  {
+    "objectID": "content/Budget.html#temporary-funds",
+    "href": "content/Budget.html#temporary-funds",
+    "title": "Budget",
+    "section": "Temporary funds",
+    "text": "Temporary funds\n\nContact Stephanie Garnett (stephanie.m.garnett@noaa.gov) for all strategic procurement discussions.\nCooperative Institute (aka. CIMAR)\n\nNew CIMAR grant projects require a minimum of $100k\nCIMAR project budget builder\n\nContract\n\nApplied to existing contract (ex. added to option years)\nUsed to start a new contract (submitted through Protect system)\nCheck budget timelines for cutoff dates",
+    "crumbs": [
+      "Budget"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Request For Proposals - Response Workbook",
     "section": "",
-    "text": "Provide a centralized location for information and tools to create to create a response to an organization’s request for proposals (RFP).",
+    "text": "Provide a centralized location for information and tools to create a response to an organization’s request for proposals (RFP).",
     "crumbs": [
       "Home"
     ]
@@ -14,7 +44,7 @@
     "href": "index.html#goal",
     "title": "Request For Proposals - Response Workbook",
     "section": "",
-    "text": "Provide a centralized location for information and tools to create to create a response to an organization’s request for proposals (RFP).",
+    "text": "Provide a centralized location for information and tools to create a response to an organization’s request for proposals (RFP).",
     "crumbs": [
       "Home"
     ]
@@ -57,36 +87,6 @@
     "text": "Other Institution’s Websites\n\nMIT’s Website on how to prepare and submit a response to a RFP.\n\n\n\n\n\n\n\nThe BID LAB Website\n\n\n\n\n\n\n\nStorydoc Website",
     "crumbs": [
       "Resources"
-    ]
-  },
-  {
-    "objectID": "content/Budget.html#project-needs-to-consider",
-    "href": "content/Budget.html#project-needs-to-consider",
-    "title": "Budget",
-    "section": "Project Needs to Consider",
-    "text": "Project Needs to Consider\n\nSalaries\n\nFederal / Grants (ex. CIMAR )/ Contract (ex. Saltwater Inc.)\nOvertime\n\nVessel\n\nNOAA Ship\nContract vessel\nSmall boat\n\nTravel\n\nAccommodations\nAirfare\nTransportation\n\nEquipment\n\nField\nLab\n\nPublication Fees\nSoftware licenses\nCloud storage / Data processing fees\nMiscellaneous",
-    "crumbs": [
-      "Budget"
-    ]
-  },
-  {
-    "objectID": "content/Budget.html#overhead",
-    "href": "content/Budget.html#overhead",
-    "title": "Budget",
-    "section": "Overhead",
-    "text": "Overhead\n\nFederal overhead changes annually based on the fiscal year. (See current rate HERE)\nFull overhead rate should be included in budget proposals to capture the complete cost to PIFSC, and Federal labor oversight for that project.\n\nNote that small boat costs are not included in the PIFSC overhead and need to be accounted for separately.\n\nContact Andrew Choy (andrew.choy@noaa.gov) for federal labor rates to include overhead.",
-    "crumbs": [
-      "Budget"
-    ]
-  },
-  {
-    "objectID": "content/Budget.html#temporary-funds",
-    "href": "content/Budget.html#temporary-funds",
-    "title": "Budget",
-    "section": "Temporary funds",
-    "text": "Temporary funds\n\nContact Stephanie Garnett (stephanie.m.garnett@noaa.gov) for all strategic procurement discussions.\nCooperative Institute (aka. CIMAR)\n\nNew CIMAR grant projects require a minimum of $100k\nCIMAR project budget builder\n\nContract\n\nApplied to existing contract (ex. added to option years)\nUsed to start a new contract (submitted through Protect system)\nCheck budget timelines for cutoff dates",
-    "crumbs": [
-      "Budget"
     ]
   }
 ]
